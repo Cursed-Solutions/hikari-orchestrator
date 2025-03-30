@@ -1,3 +1,7 @@
+# Archived
+
+Due to the attitude of Hikari's owner causing too much friction and lack of usage this project has been archived.
+
 # Hikari Orchestrator
 
 A cute lil tool for orchestrating separate Hikari shard clusters.
